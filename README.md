@@ -242,7 +242,3 @@ All executables can be compiled with any C++11 (or later) compliant compiler.
 
 **Jaishyam Reddy Reddivari**
 MS in Computer Engineering — ASIC / VLSI / Hardware Verification & Design Automation
-
-## License
-
-This project is provided as-is for educational and reference purposes.
